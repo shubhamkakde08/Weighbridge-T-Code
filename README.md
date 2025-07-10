@@ -3,6 +3,11 @@ This view acts as a configuration reference for different types of weighbridge t
 
 # ERP Weighbridge Transaction Code Master – Oracle SQL
 
+ERP-Weighbridge-TCode-Config/
+├── VIEW_WEIGHBRIDGE_TCODE.sql        # View for transaction-type mapping in weighbridge
+└── README.md                         # Project documentation
+
+
 ## 🧭 Overview
 
 This project contains the SQL view `VIEW_WEIGHBRIDGE_TCODE`, a master configuration that defines the logic, rules, and conditions for various types of weighbridge transactions used in the ERP system.
